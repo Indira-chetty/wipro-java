@@ -1,4 +1,4 @@
-mport java.io.*; 
+import java.io.*; 
 import  java.util.*; 
 class UserMainCode {  
 public int isEven(int input1){   
@@ -6,4 +6,5 @@ public int isEven(int input1){
          return 2;     
     else 
          return 1; 
-} }
+}
+}
